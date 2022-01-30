@@ -20,6 +20,7 @@ sleep 5s
 clear
 
 echo "Ports open!"
+echo ""
 netstat -nlpt
 
 while true; do
